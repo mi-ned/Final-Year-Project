@@ -1,0 +1,234 @@
+[
+    {
+        "merged": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\build\\intermediates\\res\\merged\\debug\\raw_sound_switch.wav.flat",
+        "source": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\src\\main\\res\\raw\\sound_switch.wav"
+    },
+    {
+        "merged": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_signin.xml.flat",
+        "source": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\src\\main\\res\\layout\\activity_signin.xml"
+    },
+    {
+        "merged": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_vert.xml.flat",
+        "source": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\src\\main\\res\\drawable\\button_vert.xml"
+    },
+    {
+        "merged": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\build\\intermediates\\res\\merged\\debug\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\src\\main\\res\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_natural_selection.xml.flat",
+        "source": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\src\\main\\res\\layout\\activity_natural_selection.xml"
+    },
+    {
+        "merged": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_green.xml.flat",
+        "source": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\src\\main\\res\\drawable\\background_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_my_statistics.xml.flat",
+        "source": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\src\\main\\res\\layout\\activity_my_statistics.xml"
+    },
+    {
+        "merged": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\build\\intermediates\\res\\merged\\debug\\raw_music_library.wav.flat",
+        "source": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\src\\main\\res\\raw\\music_library.wav"
+    },
+    {
+        "merged": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\build\\intermediates\\res\\merged\\debug\\raw_music_settings.wav.flat",
+        "source": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\src\\main\\res\\raw\\music_settings.wav"
+    },
+    {
+        "merged": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_facts.xml.flat",
+        "source": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\src\\main\\res\\layout\\layout_facts.xml"
+    },
+    {
+        "merged": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_facts.xml.flat",
+        "source": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\src\\main\\res\\layout\\dialog_facts.xml"
+    },
+    {
+        "merged": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\src\\main\\res\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_red.xml.flat",
+        "source": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\src\\main\\res\\drawable\\button_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_campaign.xml.flat",
+        "source": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\src\\main\\res\\layout\\activity_campaign.xml"
+    },
+    {
+        "merged": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_collection.xml.flat",
+        "source": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\src\\main\\res\\drawable\\button_collection.xml"
+    },
+    {
+        "merged": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_blue.xml.flat",
+        "source": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\src\\main\\res\\drawable\\background_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_orange.xml.flat",
+        "source": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\src\\main\\res\\drawable\\background_orange.xml"
+    },
+    {
+        "merged": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_warning.xml.flat",
+        "source": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\src\\main\\res\\layout\\activity_warning.xml"
+    },
+    {
+        "merged": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_dark.xml.flat",
+        "source": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\src\\main\\res\\drawable\\background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_rankings_row.xml.flat",
+        "source": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\src\\main\\res\\layout\\activity_rankings_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_lochmara.xml.flat",
+        "source": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\src\\main\\res\\drawable\\button_lochmara.xml"
+    },
+    {
+        "merged": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_jeaune.xml.flat",
+        "source": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\src\\main\\res\\drawable\\button_jeaune.xml"
+    },
+    {
+        "merged": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image_bear.png.flat",
+        "source": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\src\\main\\res\\drawable\\image_bear.png"
+    },
+    {
+        "merged": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\build\\intermediates\\res\\merged\\debug\\raw_sound_camera.wav.flat",
+        "source": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\src\\main\\res\\raw\\sound_camera.wav"
+    },
+    {
+        "merged": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_red.xml.flat",
+        "source": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\src\\main\\res\\drawable\\background_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_round.xml.flat",
+        "source": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\src\\main\\res\\drawable\\button_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_rankings.xml.flat",
+        "source": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\src\\main\\res\\layout\\activity_rankings.xml"
+    },
+    {
+        "merged": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_dark.xml.flat",
+        "source": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\src\\main\\res\\drawable\\button_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mainmenu.xml.flat",
+        "source": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\src\\main\\res\\layout\\activity_mainmenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\build\\intermediates\\res\\merged\\debug\\raw_music_mainmenu.wav.flat",
+        "source": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\src\\main\\res\\raw\\music_mainmenu.wav"
+    },
+    {
+        "merged": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_shoot.xml.flat",
+        "source": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\src\\main\\res\\drawable\\button_shoot.xml"
+    },
+    {
+        "merged": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\build\\intermediates\\res\\merged\\debug\\raw_music_rankings.wav.flat",
+        "source": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\src\\main\\res\\raw\\music_rankings.wav"
+    },
+    {
+        "merged": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable_test.xml.flat",
+        "source": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\src\\main\\res\\drawable\\test.xml"
+    },
+    {
+        "merged": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\build\\intermediates\\res\\merged\\debug\\raw_sound_back.wav.flat",
+        "source": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\src\\main\\res\\raw\\sound_back.wav"
+    },
+    {
+        "merged": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_light.xml.flat",
+        "source": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\src\\main\\res\\drawable\\background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edittext_default.xml.flat",
+        "source": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\src\\main\\res\\drawable\\edittext_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_gelb.xml.flat",
+        "source": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\src\\main\\res\\drawable\\button_gelb.xml"
+    },
+    {
+        "merged": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_bleu.xml.flat",
+        "source": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\src\\main\\res\\drawable\\button_bleu.xml"
+    },
+    {
+        "merged": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\build\\intermediates\\res\\merged\\debug\\raw_sound_button.wav.flat",
+        "source": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\src\\main\\res\\raw\\sound_button.wav"
+    },
+    {
+        "merged": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_change_password.xml.flat",
+        "source": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\src\\main\\res\\layout\\activity_change_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_help.xml.flat",
+        "source": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\src\\main\\res\\drawable\\button_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_credits.xml.flat",
+        "source": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\src\\main\\res\\drawable\\button_credits.xml"
+    },
+    {
+        "merged": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\miron\\Documents\\Final Year\\CS3072 Final Year Project\\1840152\\Application\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    }
+]

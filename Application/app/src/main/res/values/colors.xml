@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="tangerine_yellow">#FFC800</color>
+    <color name="lochmara">#007DE1</color>
+
+
+
+    <color name="red">#FA0000</color>
+    <color name="noir">#191919</color>
+    <color name="dark">#251900</color>
+    <color name="gris">#7D7D7D</color>
+    <color name="invisible">#00000000</color>
+    <color name="weis">#FFFFFF</color>
+    <color name="vert">#009600</color>
+    <color name="jeaune">#FAE100</color>
+    <color name="bleu">#0000C8</color>
+</resources>

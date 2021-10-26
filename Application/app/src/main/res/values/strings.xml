@@ -1,0 +1,15 @@
+<resources>
+    <!--Application Name-->
+    <string name="app_name">AnimalApp</string>
+
+    <!-- Misc. -->
+
+    <!--  Theme Array  -->
+    <string-array name="theme_array">
+        <item>THEME: LIGHT</item>
+        <item>THEME: DARK</item>
+    </string-array>
+
+    <string name="textView_warning">"Remember to be alert at all times. Be aware of your surroundings. Do not drive and play AnimalApp"</string>
+
+</resources>
