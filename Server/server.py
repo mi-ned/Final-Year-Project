@@ -15,9 +15,9 @@ def handle_request():
     print("File has been received ")
     imagefile.save(filename)
 
-    model = keras.models.load_model('C:/Users/miron/Documents/Final Year/CS3072 Final Year Project/1840152/AI/animal_model_10')
+    model = keras.models.load_model('filepath/animal_model')
 
-    data_dir = 'C:/Users/miron/Documents/Final Year/CS3072 Final Year Project/1840152/Dataset_10'
+    data_dir = 'filepath/Dataset_10'
     data_dir = pathlib.Path(data_dir)
 
     batch_size = 128
@@ -51,7 +51,7 @@ def handle_request():
     train_ds = train_ds.cache().shuffle(1000).prefetch(buffer_size=AUTOTUNE)
     val_ds = val_ds.cache().prefetch(buffer_size=AUTOTUNE)
 
-    test = 'C:/Users/miron/Documents/Final Year/CS3072 Final Year Project/1840152/Server/Picture.jpg'
+    test = 'filepath/Picture.jpg'
 
     img = keras.preprocessing.image.load_img(
        test, target_size=(img_height, img_width))
@@ -81,4 +81,4 @@ def handle_request():
         .format(class_names[np.argmax(score)], 100 * np.max(score))
       )
 
-app.run(host = "192.168.1.8", port = 7000, debug = True)
+app.run(host = "192.xxx.x.x", port = 7000, debug = True)

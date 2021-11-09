@@ -4,9 +4,9 @@ from tensorflow import keras
 import pathlib
 
 #calling the model
-model = keras.models.load_model('C:/Users/miron/Documents/Final Year/CS3072 Final Year Project/1840152/AI/animal_model_10') #or animal_model_99
+model = keras.models.load_model('filepath/Dataset_10') #or animal_model_99
 
-data_dir = 'C:/Users/miron/Documents/Final Year/CS3072 Final Year Project/1840152/Dataset_10' #or dataset 100 for 99 classes
+data_dir = 'filepath/Dataset_10' #or dataset 100 for 99 classes
 data_dir = pathlib.Path(data_dir)
 
 batch_size = 128
@@ -41,7 +41,7 @@ train_ds = train_ds.cache().shuffle(1000).prefetch(buffer_size=AUTOTUNE)
 val_ds = val_ds.cache().prefetch(buffer_size=AUTOTUNE)
 
 #testing an image
-test = 'C:/Users/miron/Documents/Final Year/CS3072 Final Year Project/1840152/Experiment/testing/lion_3.jpg'
+test = '...' #pick a jpeg image of your choice using Dataset_10 or Dataset_99
 
 img = keras.preprocessing.image.load_img(
    test, target_size=(img_height, img_width))

@@ -15,7 +15,7 @@ from tensorflow.keras.models import Sequential
 
 #Importing the dataset
 start = timeit.default_timer()
-data_dir = 'C:/Users/miron/Documents/Final Year/CS3072 Final Year Project/1840152/Dataset_10' #or Dataset_99
+data_dir = 'filepath/Dataset_10' #or Dataset_99
 data_dir = pathlib.Path(data_dir)
 image_count = len(list(data_dir.glob('*/*.jpg')))
 print(image_count)
